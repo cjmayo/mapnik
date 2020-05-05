@@ -65,7 +65,7 @@ Build system dependencies are:
 
  * C++ compiler supporting `-std=c++11` (like >= g++ 4.8 or >= clang++ 3.4)
  * >= 2 GB RAM (> 5 GB for g++)
- * Python 2.4-2.7 
+ * Python
  * Scons (a copy is bundled)
 
 Mapnik Core depends on:
